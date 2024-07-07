@@ -11,9 +11,9 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,ts,vue,next,ruby,php,go,docker,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,ruby,go,docker,aws,gcp,html,js,ts,vue,next," />
 <br>
 
 
-## resume
+## 🗒️ resume
 https://github.com/Tackeyyyyyyyy/resume
