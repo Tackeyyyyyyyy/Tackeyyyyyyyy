@@ -13,3 +13,7 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,js,ts,vue,next,ruby,php,go,docker,aws,gcp" />
 <br>
+
+
+## resume
+https://github.com/Tackeyyyyyyyy/resume
