@@ -14,6 +14,10 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,ruby,go,docker,aws,gcp,html,js,ts,vue,next," />
 <br>
 
+## 🏃 Activities
 
-## 🗒️ resume
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tackeyyyyyyyy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tackeyyyyyyyy&theme=vue)
+
+## 🗒️ Resume
 https://github.com/Tackeyyyyyyyy/resume
